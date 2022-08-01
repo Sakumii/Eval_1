@@ -10,3 +10,20 @@
     top: 0;
     z-index: 999;
 }
+.header .header-logo {
+    color: antiquewhite;
+    font-family: 'Lato', sans-serif;
+    float: left;
+    margin-left: 30px;
+}
+.header .header-menu {
+    float: right;
+    margin-right: 30px;
+}
+.header .header-menu a {
+    margin-right: 15px;
+    color: antiquewhite;
+}
+.header .header-menu a:hover {
+    color: #C2410C;
+}
