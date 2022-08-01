@@ -27,3 +27,21 @@
 .header .header-menu a:hover {
     color: #C2410C;
 }
+
+/*Banner*/
+
+.banner {
+    margin-top: -20px;
+}
+.banner .banner-image {
+    position: relative;
+}
+.banner .banner-content {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: 30%;
+}
+.banner .banner-content h1 {
+    color: #FDBA74;
+}
