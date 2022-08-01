@@ -45,3 +45,21 @@
 .banner .banner-content h1 {
     color: #FDBA74;
 }
+
+/*About*/
+
+.about .about-single-element .subtitle-about {
+    font-size: 30px;
+    text-align: center;
+}
+.about .about-single-element {
+    text-align: center;
+}
+.about .about-single-element p {
+    margin-top: 30px;
+    text-align: left;
+}
+.tabulation {
+    display: inline-block;
+    margin-left: 20px;
+}
