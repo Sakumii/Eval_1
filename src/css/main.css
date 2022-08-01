@@ -6,7 +6,7 @@
     margin-right: 0;
     height: 70px;
     line-height: 70px;
-    background-color: #78350F;position: fixed;
+    position: absolute;
     top: 0;
     z-index: 999;
 }
@@ -31,7 +31,7 @@
 /*Banner*/
 
 .banner {
-    margin-top: -20px;
+    margin-top: -30px;
 }
 .banner .banner-image {
     position: relative;
