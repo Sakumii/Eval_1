@@ -1,3 +1,9 @@
+/*Body*/
+
+body {
+    background-color: antiquewhite;
+}
+
 /*Header*/
 
 .header {
@@ -53,6 +59,7 @@
     text-align: center;
 }
 .about .about-single-element {
+    background-color: white;
     text-align: center;
 }
 .about .about-single-element p {

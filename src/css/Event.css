@@ -1,9 +1,11 @@
+.event .event-single-element {
+    background-color: white;
+    margin: 30 15 15 15 
+}
 .event .event-single-element .img-event {
     position: relative;
-    margin-top: 30px;
     max-width: 200px;
     max-height: 200px;
 }
-.row .event-single-element {
-    position: absolute;
-}
+
+
