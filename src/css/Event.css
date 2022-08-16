@@ -10,3 +10,19 @@
     max-width: 200px;
     max-height: 200px;
 }
+
+@media screen and (max-width: 500px) {
+    
+    .event .event-single-element img {
+        display: none;
+    }
+
+    .header .header-menu {
+            float: left;
+            color: #FDBA74;
+        }    
+    .banner .banner-content h1 {
+            color: #C2410C;
+            font-size: 30px;
+        }
+}
